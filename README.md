@@ -1,6 +1,6 @@
 # Instruction
 
-Run the commands below from this directory. Requires Python with NumPy, PyTorch, SciPy, Matplotlib, and pandas installed.
+Run the commands below from this directory. Requires Python with NumPy, PyTorch, SciPy, Matplotlib, and pandas installed. Suggest to run on Google Colab with 1 T4 GPU.
 
 ## Figure 2a
 
