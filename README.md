@@ -1,4 +1,4 @@
-# Figure 2 experiments
+# Instruction
 
 Run the commands below from this directory. Requires Python with NumPy, PyTorch, SciPy, Matplotlib, and pandas installed.
 
